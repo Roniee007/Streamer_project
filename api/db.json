@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "Fruits",
+      "description": "This is a best intimidating fruits stream ever",
+      "id": 1
+    },
+    {
+      "title": "Fruits",
+      "description": "This is a best intimidating fruits stream ever",
+      "id": 2
+    },
+    {
+      "title": "Fruits",
+      "description": "This is a best intimidating fruits stream ever",
+      "id": 3
+    },
+    {
+      "title": "Animals",
+      "description": "10 Most Dangerous Animals",
+      "userId": "113396221058115816710",
+      "id": 4
+    },
+    {
+      "title": "whales",
+      "description": "largest sea creatures",
+      "userId": "113396221058115816710",
+      "id": 5
+    }
+  ]
+}
